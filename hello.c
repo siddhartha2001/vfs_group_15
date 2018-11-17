@@ -1,4 +1,0 @@
-sdasdasdasdhjasdhjasdhjasdhjasd
-
-#include<jai.c>
-
